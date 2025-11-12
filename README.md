@@ -7,7 +7,24 @@ Skdr bljr
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Website Cantik</title>
-  <link rel="stylesheet" href="style.css">
+  <style>
+body {
+  font-family: sans-serif;
+  background: linear-gradient(135deg, #0099ff, #66ffcc);
+  color: white;
+  text-align: center;
+  padding: 50px;
+}
+
+button {
+  background: white;
+  color: #0099ff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+</style>
 </head>
 <body>
   <h1>Halo Dunia!</h1>
